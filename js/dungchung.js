@@ -573,7 +573,7 @@ function addHeader() {
 	<div class="header group">
         <div class="logo">
             <a href="index.html">
-                <img src="img/logo.jpg" alt="Trang chủ DUAN LE Mobile" title="Trang chủ DUAN LE Mobile">
+                <img src="img/logo.png" alt="Trang chủ DUAN LE Mobile" title="Trang chủ DUAN LE Mobile">
             </a>
         </div> <!-- End Logo -->
 
