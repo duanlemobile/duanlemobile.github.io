@@ -743,7 +743,7 @@ function addPlc() {
                 <li>Lỗi đổi tại nhà trong 1 ngày</li>
                 <li>Hỗ trợ suốt thời gian sử dụng.
                     <br>Hotline:
-                    <a href="tel:0833656688" style="color: #288ad6;">12345678</a>
+                    <a href="tel:0833656688" style="color: #288ad6;">083 365 6688</a>
                 </li>
             </ul>
         </section>
